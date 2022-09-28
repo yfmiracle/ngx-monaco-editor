@@ -36,24 +36,24 @@
     "Atul Kumar <atulaggarwal4288@gmail.com>"
   ],
   "dependencies": {
-    "@angular/animations": "13.3.9",
-    "@angular/common": "13.3.9",
-    "@angular/compiler": "13.3.9",
-    "@angular/core": "13.3.9",
-    "@angular/forms": "13.3.9",
-    "@angular/platform-browser": "13.3.9",
-    "@angular/platform-browser-dynamic": "13.3.9",
-    "@angular/router": "13.3.9",
+    "@angular/animations": "13.3.11",
+    "@angular/common": "13.3.11",
+    "@angular/compiler": "13.3.11",
+    "@angular/core": "13.3.11",
+    "@angular/forms": "13.3.11",
+    "@angular/platform-browser": "13.3.11",
+    "@angular/platform-browser-dynamic": "13.3.11",
+    "@angular/router": "13.3.11",
     "monaco-editor": "^0.24.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.1.0",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "13.2.4",
-    "@angular/cli": "13.2.4",
-    "@angular/compiler-cli": "13.2.4",
-    "@angular/language-service": "13.2.4",
+    "@angular-devkit/build-angular": "13.3.9",
+    "@angular/cli": "13.3.9",
+    "@angular/compiler-cli": "13.3.11",
+    "@angular/language-service": "13.3.11",
     "@types/jasmine": "~3.6.0",
     "@types/node": "13.7.4",
     "jasmine-core": "~3.7.0",
@@ -63,6 +63,7 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "^1.5.0",
     "npm-run-all": "^4.1.5",
+    "ng-packagr": "13.3.1",
     "typescript": "~4.5.5"
   }
 }
